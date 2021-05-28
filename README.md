@@ -1,0 +1,1 @@
+Practice for the Odin Project. Did not use Responsive Design as the purpose for this project was to just practice basic HTML and CSS.
