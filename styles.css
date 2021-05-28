@@ -16,15 +16,33 @@
 #store {
     left: 75px;
 }
+#gmail {
+    left: 960px;
+    font-size: 11.2px;
+}
+#images {
+    left: 1005px;
+    font-size:11.2px;
+}
+#apps {
+    left: 1065px;
+    top: 13px;
+}
 .top-links{
     color: black;
     font-size: 12.5px;
     position: fixed;
-    top: 19px;
+    top: 21px;
 }
-.text:hover{
-    text-decoration: underline;
+#signin{
+    background-color: #1a73e8;
+    color: white;
+    left: 1105px;
+    top: 9px;
+    width: 85px;
+    position: fixed;
 }
+
 #search-bar{
     position: relative;
     left: 335px;
@@ -73,19 +91,39 @@ button:hover{
 .grey-box{
     background: #f2f2f2;
     width: 1500px;
-    height: 75px;
+    height: 70px;
     position: relative;
     top:205px;
     right: 600px;
 }
 hr{
     position: relative;
-    top: 43px;
+    top: 38px;
     height: 50%;
     color: rgb(219, 216, 216);
 }
+
 #canada {
     right: 493px;
-    top: 143px;
+    top: 148px;
     font-size: 13px;
 }
+#canada:hover{
+    text-decoration: underline;
+}
+#ad{
+    right: 485px;
+    top:171px;
+}
+#ad:hover{
+    text-decoration: underline;
+}
+#bus{
+    top:158px;
+    right: 400px;
+}
+#how{
+    top:144px;
+    right: 325px;
+}
+
